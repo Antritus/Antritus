@@ -5,5 +5,5 @@ Learning more and more programming everyday to create my own company someday. Tr
 
 ### I do code, I code mi stuff, Mi stuff är de bäst or they not de best.
 
-## Minecraft Related Projects (JAVA/SKRIPT (MC PLUGIN))
+## My minecraft related content (Skripts, Java)
 https://github.com/AstralLiteratureClub
