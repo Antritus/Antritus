@@ -4,3 +4,6 @@ Learning more and more programming everyday to create my own company someday. Tr
 @Antritus
 
 ### I do code, I code mi stuff, Mi stuff är de bäst or they not de best.
+
+## Minecraft Related Projects (JAVA)
+https://github.com/AstralLiteratureClub
